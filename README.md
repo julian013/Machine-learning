@@ -1,2 +1,2 @@
 # Machine-learning
-Basic projects for clarity enhancement
+Basic projects for clarity.
